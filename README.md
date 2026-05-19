@@ -90,6 +90,6 @@ This repo was built as a hands-on companion to coursework in Digital Image Proce
 
 **Mohamed Tarek**  
 B.Sc. Communications & Electronics Engineering — Mansoura University  
-[GitHub](https://github.com/Mohamed-Tarek10) · [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](http://www.github.com/Mohamed-Tarek10) · [LinkedIn](http://www.linkedin.com/in/1mohamed-tarek)
 
 ---
